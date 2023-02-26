@@ -13,8 +13,8 @@
 	export let fixedHeightContent = false;
 	export let fullWidth = false;
 
-	const SITE_NAME = 'Somerset County 4-H Fair';
-	const DESCRIPTION = 'The Somerset County 4-H Fair App';
+	const SITE_NAME = 'Burlington County 4-H';
+	const DESCRIPTION = 'The Burlington County 4-H Fair App';
 	const AUTHOR = 'Somerset County 4-H';
 	const metaDescription = description || DESCRIPTION;
 	const animationDuration = 150;
