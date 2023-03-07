@@ -1,6 +1,6 @@
 {
 	"name": "Burlington County 4-H",
-	"short_name": "Burlington County 4-H ",
+	"short_name": "BC 4-H ",
 	"start_url": "/",
 	"related_applications": [
 		{ "platform": "webapp", "url": "https://v2.sc4hfair.app/manifest.webmanifest" }
