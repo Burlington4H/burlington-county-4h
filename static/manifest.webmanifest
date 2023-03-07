@@ -1,6 +1,6 @@
 {
-	"name": "BurlingtonCounty 4-H Fair",
-	"short_name": "Burlington County 4H Fair",
+	"name": "Burlington County 4-H Fair",
+	"short_name": "Burlington County 4-H Fair",
 	"start_url": "/",
 	"related_applications": [
 		{ "platform": "webapp", "url": "https://v2.sc4hfair.app/manifest.webmanifest" }
