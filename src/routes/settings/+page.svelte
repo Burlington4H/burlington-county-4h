@@ -142,7 +142,7 @@
 	<h1>About</h1>
 	<p>
 		This app was created by the <a href="https://4hcomputers.club"
-			>Somerset County 4-H Computer Club</a
+			>BurlingtonCounty 4-H Computer Club</a
 		>.
 	</p>
 	<p class="horizPanel2">

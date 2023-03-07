@@ -1,6 +1,6 @@
 {
-	"name": "Somerset County 4-H Fair",
-	"short_name": "SC 4H Fair",
+	"name": "BurlingtonCounty 4-H Fair",
+	"short_name": "Burlington County 4H Fair",
 	"start_url": "/",
 	"related_applications": [
 		{ "platform": "webapp", "url": "https://v2.sc4hfair.app/manifest.webmanifest" }
