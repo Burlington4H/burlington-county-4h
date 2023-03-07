@@ -34,14 +34,14 @@
 </script>
 
 <Layout>
-	<h1 class="center">Welcome to the Burlington County 4-H.</h1>
+	<h1 class="center">Welcome to the Burlington County 4-H App!</h1>
 	{#if showSetupBox}
 		<div class="installBox">
 			<h2 style="text-align: center">Finish setting up the fair app</h2>
 			<hr />
 			<strong><span class="numberSquircle">1</span> Add the fair app to your homescreen:</strong>
 			<InstallInstructions />
-			<strong><span class="numberSquircle">2</span> Enable notifications about fair updates:</strong
+			<strong><span class="numberSquircle">2</span> Enable notifications for updates on programs and events in Burlington County:</strong
 			>
 			<p style="display: flex; align-items: center; gap: 8px;">
 				<NotificationEnableButton />
