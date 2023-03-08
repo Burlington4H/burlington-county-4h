@@ -1,10 +1,11 @@
 {
-	"name": "sc4hfair-sveltekit",
+	"name": "BC4H-sveltekit",
 	"private": true,
 	"version": "2",
 	"contributors": [
 		"Cy Westbrook <cyfinfaza@gmail.com>",
 		"Calum Dingwall (https://github.com/caburum)"
+		Brianna Boyd (bb677@njaes.rutgers.edu)
 	],
 	"scripts": {
 		"dev": "vite dev",
